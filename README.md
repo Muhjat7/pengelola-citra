@@ -155,7 +155,7 @@ image_path = 'C:/Users/ASUS/Pictures/anime.PNG'
 secret_text = 'This is a secret message.'
 output_path = 'C:/Users/ASUS/Downloads/web/anime_output.png'
 hide_text(image_path, secret_text, output_path)
-
+```
 ### hasil
 
 ![337191400-277a1492-33fd-456f-b96e-ad39f48a2c3e](https://github.com/Muhjat7/pengelola-citra/assets/129918243/00047f9b-e733-4c13-9c25-f1721ef1b036)
